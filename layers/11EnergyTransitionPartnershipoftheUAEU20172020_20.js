@@ -1,0 +1,1 @@
+var json_11EnergyTransitionPartnershipoftheUAEU20172020_20 = {"type":"FeatureCollection","name":"11EnergyTransitionPartnershipoftheUAEU20172020_20","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
