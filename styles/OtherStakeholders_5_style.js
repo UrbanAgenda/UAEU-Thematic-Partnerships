@@ -13,7 +13,7 @@ function categories_OtherStakeholders_5(feature, value, size, resolution, labelT
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Other Stakeholders.svg"
+                  src: "styles/embedded_9.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -29,7 +29,7 @@ case '2) Housing Partnership of the UAEU (2016-2019)':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Other Stakeholders_1.svg"
+                  src: "styles/embedded_10.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -45,7 +45,7 @@ case '3) Urban Poverty Partnership of the UAEU (2016-2019)':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Other Stakeholders_2.svg"
+                  src: "styles/embedded_11.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -61,7 +61,7 @@ case '4) Inclusion of Migrants and Refugees Partnership of the UAEU (2016-2024)'
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Other Stakeholders_3.svg"
+                  src: "styles/embedded_12.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -77,7 +77,7 @@ case '5) Digital Transition Partnership of the UAEU (2017-2020)':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Other Stakeholders_4.svg"
+                  src: "styles/embedded_13.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -93,7 +93,7 @@ case '6) Urban Mobility Partnership for the UAEU (2017-2020)':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Other Stakeholders_5.svg"
+                  src: "styles/embedded_14.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -109,7 +109,7 @@ case '7) Circular Economy Partnership of the UAEU (2017-2020)':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Other Stakeholders_6.svg"
+                  src: "styles/embedded_15.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -125,7 +125,7 @@ case '9) Public Procurement Partnership of the UAEU (2017-2024)':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Other Stakeholders_7.svg"
+                  src: "styles/embedded_16.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -141,7 +141,7 @@ case '10) Sustainable Land Use Partnership of the UAEU (2017-2020)':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Other Stakeholders_8.svg"
+                  src: "styles/embedded_17.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -157,7 +157,7 @@ case '11) Energy Transition Partnership of the UAEU (2017-2020)':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Other Stakeholders_9.svg"
+                  src: "styles/embedded_18.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -173,7 +173,7 @@ case '12) Climate Adaptation Partnership of the UAEU (2017-2020)':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Other Stakeholders_10.svg"
+                  src: "styles/embedded_19.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -189,7 +189,7 @@ case '14) Culture and Cultural Heritage Partnership of the UAEU (2019-2024)':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Other Stakeholders_11.svg"
+                  src: "styles/embedded_20.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -205,7 +205,7 @@ case '15) Greening Cities Partnership of the UAEU (2023-2026)':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Other Stakeholders_12.svg"
+                  src: "styles/embedded_21.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -221,7 +221,7 @@ case '16) Sustainable Tourism Partnership of the UAEU (2023-2026)':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Other Stakeholders_13.svg"
+                  src: "styles/embedded_22.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -237,7 +237,7 @@ case '17) Food Partnership of the UAEU (2024-2027)':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Other Stakeholders_14.svg"
+                  src: "styles/embedded_23.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -253,7 +253,7 @@ case '18) Cities of Equality Partnership of the UAEU (2024-2027)':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Other Stakeholders_15.svg"
+                  src: "styles/embedded_24.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -269,7 +269,7 @@ case '19) Water Sensitive City Partnership of the UAEU (2025-2028)':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Other Stakeholders_16.svg"
+                  src: "styles/embedded_25.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -285,7 +285,7 @@ case '20) Building Decarbonisation Partnership of the UAEU (2025-2028)':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Other Stakeholders_17.svg"
+                  src: "styles/embedded_26.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,

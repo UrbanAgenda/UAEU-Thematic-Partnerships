@@ -13,7 +13,7 @@ function categories_3UrbanPovertyPartnershipoftheUAEU20162019_12(feature, value,
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Placemarker_Pink to Orange_1.svg"
+                  src: "styles/embedded_110.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -29,7 +29,7 @@ case 'European Institutions':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/European Institutions ICON_2.svg"
+                  src: "styles/embedded_111.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -45,7 +45,7 @@ case 'Coordinators ':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Coordinator_21.svg"
+                  src: "styles/embedded_112.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -61,7 +61,7 @@ case 'National Authority':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/National Authorities_22.svg"
+                  src: "styles/embedded_113.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -77,7 +77,7 @@ case 'Regional Authority':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Regional Authorities_11.svg"
+                  src: "styles/embedded_114.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -93,7 +93,7 @@ case 'Other Stakeholders':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Other Stakeholders_20.svg"
+                  src: "styles/embedded_115.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -109,7 +109,7 @@ case 'Umbrella Organisations':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Umbrella Organisation_11.svg"
+                  src: "styles/embedded_116.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,

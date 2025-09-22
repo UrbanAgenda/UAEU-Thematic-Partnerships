@@ -13,7 +13,7 @@ function categories_16SustainableTourismPartnershipoftheUAEU2023Present_25(featu
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Placemarker_Purple to Red_1.svg"
+                  src: "styles/embedded_195.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -29,7 +29,7 @@ case 'European Institution':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/European Institutions ICON_15.svg"
+                  src: "styles/embedded_196.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -45,7 +45,7 @@ case 'Coordinators ':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Coordinator_33.svg"
+                  src: "styles/embedded_197.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -61,7 +61,7 @@ case 'National Authorities':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/National Authorities_35.svg"
+                  src: "styles/embedded_198.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -77,7 +77,7 @@ case 'Regional Authority':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Regional Authorities_19.svg"
+                  src: "styles/embedded_199.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -93,7 +93,7 @@ case 'Other Stakeholders':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Other Stakeholders_31.svg"
+                  src: "styles/embedded_200.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -109,7 +109,7 @@ case 'Umbrella Organisations':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Umbrella Organisation_24.svg"
+                  src: "styles/embedded_201.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,

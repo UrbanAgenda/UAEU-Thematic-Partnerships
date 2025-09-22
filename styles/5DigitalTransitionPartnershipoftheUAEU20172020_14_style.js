@@ -13,7 +13,7 @@ function categories_5DigitalTransitionPartnershipoftheUAEU20172020_14(feature, v
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Placemarker_Grey_1.svg"
+                  src: "styles/embedded_123.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -29,7 +29,7 @@ case 'European Institutions':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/European Institutions ICON_4.svg"
+                  src: "styles/embedded_124.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -45,7 +45,7 @@ case 'Coordinators':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Coordinator_23.svg"
+                  src: "styles/embedded_125.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -61,7 +61,7 @@ case 'National Authority':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/National Authorities_24.svg"
+                  src: "styles/embedded_126.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -77,7 +77,7 @@ case 'Regional Authorities':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Regional Authorities_12.svg"
+                  src: "styles/embedded_127.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -93,7 +93,7 @@ case 'Umbrella Organisations':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Umbrella Organisation_13.svg"
+                  src: "styles/embedded_128.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,

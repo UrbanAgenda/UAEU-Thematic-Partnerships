@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="100px" height="100px" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+  <!-- Gradient Definition (Blue to Yellow) -->
+  <defs>
+    <linearGradient id="blueToYellow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0000FF;stop-opacity:1" /> <!-- Blue -->
+      <stop offset="100%" style="stop-color:#FFFF00;stop-opacity:1" /> <!-- Yellow -->
+    </linearGradient>
+  </defs>
+
+  <!-- Circular background with purple to red gradient fill and white stroke -->
+  <circle cx="30" cy="30" r="28" fill="url(#blueToYellow)" stroke="white" stroke-width="5"/>
+
+  <!-- White cross (centered) with thicker, rounded lines -->
+  <rect x="14" y="26" width="32" height="6" fill="white" rx="3" ry="3"/> <!-- Horizontal part of cross with rounded corners -->
+  <rect x="27" y="14" width="6" height="32" fill="white" rx="3" ry="3"/> <!-- Vertical part of cross with rounded corners -->
+</svg>

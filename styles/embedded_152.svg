@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>   
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="1000px" height="1000px" viewBox="-1 -1 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  
+ <!-- Gradient Definition (Orange to Black) -->
+  <defs>
+    <linearGradient id="orangeToBlack" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:orange;stop-opacity:1" /> <!-- Orange -->
+      <stop offset="100%" style="stop-color:black;stop-opacity:1" /> <!-- Black -->
+    </linearGradient>
+  </defs>
+  
+  <!-- Circular Path with Gradient Fill and White Outline -->
+  <circle cx="8" cy="8" r="7" fill="url(#orangeToBlack)" stroke="white" stroke-width="1.5"/>
+  
+  <!-- White Circle in the Foreground -->
+  <circle cx="8" cy="8" r="3.5" fill="white"/>
+</svg>

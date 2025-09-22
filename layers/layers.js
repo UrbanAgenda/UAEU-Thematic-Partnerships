@@ -63,8 +63,8 @@ var lyr_UmbrellaOrganisations_4 = new ol.layer.Vector({
                 interactive: true,
     title: 'Umbrella Organisations<br />\
     <img src="styles/legend/UmbrellaOrganisations_4_0.png" /> 1) Air Quality Partnership of the UAEU (2016-2019)<br />\
-    <img src="styles/legend/UmbrellaOrganisations_4_1.png" /> 8) Jobs and Skills Partnership of the UAEU (2017-2020)<br />\
-    <img src="styles/legend/UmbrellaOrganisations_4_2.png" /> 9) Public Procurement Partnership of the UAEU (2017-2024)<br />\
+    <img src="styles/legend/UmbrellaOrganisations_4_1.png" /> 9) Public Procurement Partnership of the UAEU (2017-2024)<br />\
+    <img src="styles/legend/UmbrellaOrganisations_4_2.png" /> 8) Jobs and Skills Partnership of the UAEU (2017-2020)<br />\
     <img src="styles/legend/UmbrellaOrganisations_4_3.png" /> 13) Security in Public Spaces Partnership of the UAEU (2019-2022)<br />\
     <img src="styles/legend/UmbrellaOrganisations_4_4.png" /> 14) Culture and Cultural Heritage Partnership of the UAEU (2019-2024)<br />\
     <img src="styles/legend/UmbrellaOrganisations_4_5.png" /> 15) Greening Cities Partnership of the UAEU (2023-2026)<br />\

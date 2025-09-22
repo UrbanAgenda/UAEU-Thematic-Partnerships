@@ -13,23 +13,7 @@ function categories_UmbrellaOrganisations_4(feature, value, size, resolution, la
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Umbrella Organisation.svg"
-            }),
-        text: createTextStyle(feature, resolution, labelText, labelFont,
-                              labelFill, placement, bufferColor,
-                              bufferWidth)
-    })];
-                    break;
-case '8) Jobs and Skills Partnerships of the UAEU (2017-2020)':
-                    return [ new ol.style.Style({
-        image: new ol.style.Icon({
-                  imgSize: [1000, 1000],
-                  scale: 0.026,
-                  anchor: [500.0, 500.0],
-                  anchorXUnits: "pixels",
-                  anchorYUnits: "pixels",
-                  rotation: 0.0,
-                  src: "styles/Umbrella Organisation_1.svg"
+                  src: "styles/embedded.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -45,7 +29,23 @@ case '9) Public Procurement Partnership of the UAEU (2017-2024)':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Umbrella Organisation_2.svg"
+                  src: "styles/embedded_1.svg"
+            }),
+        text: createTextStyle(feature, resolution, labelText, labelFont,
+                              labelFill, placement, bufferColor,
+                              bufferWidth)
+    })];
+                    break;
+case '8) Jobs and Skills Partnerships of the UAEU (2017-2020)':
+                    return [ new ol.style.Style({
+        image: new ol.style.Icon({
+                  imgSize: [1000, 1000],
+                  scale: 0.026,
+                  anchor: [500.0, 500.0],
+                  anchorXUnits: "pixels",
+                  anchorYUnits: "pixels",
+                  rotation: 0.0,
+                  src: "styles/embedded_2.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -61,7 +61,7 @@ case '13) Security in Public Spaces Partnership of the UAEU (2019-2022)':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Umbrella Organisation_3.svg"
+                  src: "styles/embedded_3.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -77,7 +77,7 @@ case '14) Culture and Cultural Heritage Thematic Partnership of the UAEU (2019-2
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Umbrella Organisation_4.svg"
+                  src: "styles/embedded_4.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -93,7 +93,7 @@ case '15) Greening Cities Partnership of the UAEU (2023-2026)':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Umbrella Organisation_5.svg"
+                  src: "styles/embedded_5.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -109,7 +109,7 @@ case '18) Cities of Equality Partnership of the UAEU (2024-2027)':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Umbrella Organisation_6.svg"
+                  src: "styles/embedded_6.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -125,7 +125,7 @@ case '19) Water Sensitive City Partnership of the UAEU (2025-2028)':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Umbrella Organisation_7.svg"
+                  src: "styles/embedded_7.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
@@ -141,7 +141,7 @@ case '20) Building Decarbonisation Partnership of the UAEU (2025-2028)':
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
-                  src: "styles/Umbrella Organisation_8.svg"
+                  src: "styles/embedded_8.svg"
             }),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
