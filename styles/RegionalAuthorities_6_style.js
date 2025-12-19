@@ -179,6 +179,22 @@ case '20) Building Decarbonisation Partnership of the UAEU (2025-2028)':
                               labelFill, placement, bufferColor,
                               bufferWidth)
     })];
+                    break;
+case '21) Compact Cities Partnership of the UAEU (2025-2028)':
+                    return [ new ol.style.Style({
+        image: new ol.style.Icon({
+                  imgSize: [1000, 1000],
+                  scale: 0.03,
+                  anchor: [500.0, 500.0],
+                  anchorXUnits: "pixels",
+                  anchorYUnits: "pixels",
+                  rotation: 0.0,
+                  src: "styles/Regional Authorities.svg"
+            }),
+        text: createTextStyle(feature, resolution, labelText, labelFont,
+                              labelFill, placement, bufferColor,
+                              bufferWidth)
+    })];
                     break;}};
 
 var style_RegionalAuthorities_6 = function(feature, resolution){

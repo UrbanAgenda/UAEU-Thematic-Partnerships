@@ -4,16 +4,19 @@
   <!-- White Circle Background -->
   <circle cx="300" cy="300" r="480" fill="white"/>
   
-  <!-- Gradient Definition (Blue to Yellow) -->
-  <defs>
-    <linearGradient id="blueToYellow" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0000FF;stop-opacity:1" /> <!-- Blue -->
-      <stop offset="100%" style="stop-color:#FFFF00;stop-opacity:1" /> <!-- Yellow -->
-    </linearGradient>
-  </defs>
+    <!-- Define the gradient -->
+  <defs> 
+  <linearGradient id="viridisGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" style="stop-color:#440154;stop-opacity:1" />
+    <stop offset="25%" style="stop-color:#482576;stop-opacity:1" />
+    <stop offset="50%" style="stop-color:#3e4a89;stop-opacity:1" />
+    <stop offset="75%" style="stop-color:#2a788e;stop-opacity:1" />
+    <stop offset="100%" style="stop-color:#f0f921;stop-opacity:1" />
+  </linearGradient>
+</defs>
 
-  <!-- Circle with blue to yellow gradient fill and white border -->
-  <circle cx="300" cy="300" r="400" fill="url(#blueToYellow)"/>
+  <!-- Circle with purple to red gradient fill and white border -->
+  <circle cx="300" cy="300" r="400" fill="url(#viridisGradient)"/>
 
   <!-- Path with white fill and the connecting line kept intact -->
   <path fill="white" d="M115.38 136.9l102.11 37.18c35.19-81.54 86.21-144.29 139-173.7-95.88-4.89-188.78 36.96-248.53 111.8-6.69 8.4-2.66 21.05 7.42 24.72zm132.25 48.16l238.48 86.83c35.76-121.38 18.7-231.66-42.63-253.98-7.4-2.7-15.13-4-23.09-4-58.02.01-128.27 69.17-172.76 171.15zM521.48 60.5c6.22 16.3 10.83 34.6 13.2 55.19 5.74 49.89-1.42 108.23-18.95 166.98l102.62 37.36c10.09 3.67 21.31-3.43 21.57-14.17 2.32-95.69-41.91-187.44-118.44-245.36zM560 447.98H321.06L386 269.5l-60.14-21.9-72.9 200.37"/>

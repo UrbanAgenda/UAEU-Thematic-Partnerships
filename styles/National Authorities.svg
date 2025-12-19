@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg width="100px" height="100px" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
-  <!-- Gradient Definition (Blue to Yellow) -->
-  <defs>
-    <linearGradient id="blueToYellow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0000FF;stop-opacity:1" /> <!-- Blue -->
-      <stop offset="100%" style="stop-color:#FFFF00;stop-opacity:1" /> <!-- Yellow -->
-    </linearGradient>
-  </defs>
+   <!-- Define the gradient -->
+  <defs> 
+  <linearGradient id="viridisGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" style="stop-color:#440154;stop-opacity:1" />
+    <stop offset="25%" style="stop-color:#482576;stop-opacity:1" />
+    <stop offset="50%" style="stop-color:#3e4a89;stop-opacity:1" />
+    <stop offset="75%" style="stop-color:#2a788e;stop-opacity:1" />
+    <stop offset="100%" style="stop-color:#f0f921;stop-opacity:1" />
+  </linearGradient>
+</defs>
 
   <!-- Circular background with purple to red gradient fill and white stroke -->
-  <circle cx="30" cy="30" r="28" fill="url(#blueToYellow)" stroke="white" stroke-width="5"/>
+  <circle cx="30" cy="30" r="28" fill="url(#viridisGradient)" stroke="white" stroke-width="5"/>
 
   <!-- White cross (centered) with thicker, rounded lines -->
   <rect x="14" y="26" width="32" height="6" fill="white" rx="3" ry="3"/> <!-- Horizontal part of cross with rounded corners -->
