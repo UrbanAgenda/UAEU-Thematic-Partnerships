@@ -9,7 +9,7 @@ var map = new ol.Map({
 });
 
 //initial view - epsg:3857 coordinates if not "Match project CRS"
-map.getView().fit([-4146558.572257, 2640771.493113, 5967987.767450, 9414592.481654], map.getSize());
+map.getView().fit([-1557227.167739, 3647807.266313, 4336497.417228, 7902505.900251], map.getSize());
 
 ////small screen definition
     var hasTouchScreen = map.getViewport().classList.contains('ol-touch');
@@ -455,7 +455,7 @@ var Abstract = new ol.control.Control({
 
         var linkElement = document.createElement('a');
 
-        if (403 > 240) {
+        if (399 > 240) {
             linkElement.setAttribute("onmouseenter", "showAbstract()");
             linkElement.setAttribute("onmouseleave", "hideAbstract()");
             linkElement.innerHTML = 'i';
@@ -469,13 +469,13 @@ var Abstract = new ol.control.Control({
             window.showAbstract = function() {
                 linkElement.classList.remove("project-abstract");
                 linkElement.classList.add("project-abstract-uncollapsed");
-                linkElement.innerHTML = 'This map includes all official members involved in the Urban Agenda for the EU since 2016. It has two main layers: Partnerships and Typologies and several sub-layers.<br />Use the legend (top-right) to toggle layers on or off. You can:<br />View all Partnerships or select specific ones.<br />Filter Typologies to see only certain typologies of organizations (e.g., just cities)<br />Copyright@Patrick Smith (EUI Developer)';
+                linkElement.innerHTML = 'This map includes all official members involved in the Urban Agenda for the EU since 2016. It has two main layers: Partnerships and Typologies and several sub-layers.<br />Use the legend (top-right) to toggle layers on or off. You can:<br />View all Partnerships or select specific ones.<br />Filter Typologies to see only certain typologies of organizations (e.g., just cities)<br />Copyright@European Urban Initiative';
             }
 
             hideAbstract();
         } else {
             linkElement.classList.add("project-abstract-uncollapsed");
-            linkElement.innerHTML = 'This map includes all official members involved in the Urban Agenda for the EU since 2016. It has two main layers: Partnerships and Typologies and several sub-layers.<br />Use the legend (top-right) to toggle layers on or off. You can:<br />View all Partnerships or select specific ones.<br />Filter Typologies to see only certain typologies of organizations (e.g., just cities)<br />Copyright@Patrick Smith (EUI Developer)';
+            linkElement.innerHTML = 'This map includes all official members involved in the Urban Agenda for the EU since 2016. It has two main layers: Partnerships and Typologies and several sub-layers.<br />Use the legend (top-right) to toggle layers on or off. You can:<br />View all Partnerships or select specific ones.<br />Filter Typologies to see only certain typologies of organizations (e.g., just cities)<br />Copyright@European Urban Initiative';
         }
 
         titleElement.appendChild(linkElement);
